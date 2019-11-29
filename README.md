@@ -11,7 +11,7 @@ I am a passionate writer who is enthusiastic about getting information behind th
 
 
 ### [Similarity between Genres by analyzing blurbs using Natural Language Processing](https://github.com/EdidiongEsu/genre_NLP)
-I analyzed blurbs of over a million words to check for similarity between genres. I ascertained if blurbs are avid representation of whole books by tokenizing all blurbs to check for most common words in all genres. Deductions were made from this analysis which corelated with my initial assumptions. I choose 4 categories out of the 22 categories in my data. This data was scraped from Africa's most popular e-store by my [webcrawler](https://github.com/EdidiongEsu/okadabooks_scraper). Jaccard similarity was used to calculate the similarity metric by comparing word types across genres and the visulization was done with a donut plot.
+I analyzed blurbs of over a million words to check for similarity between genres. A blurb is a short (usually about 200 words) description of a book  usually written for promotional purposes. I ascertained if blurbs are avid representations of whole books. Deductions were made from this analysis which corelated with my initial assumptions. The data used in this repository was scraped from Africa's most popular e-store by my [webcrawler](https://github.com/EdidiongEsu/okadabooks_scraper). I choose 4 categories out of the 22 categories in my data.  Jaccard similarity was used to calculate the similarity metric by comparing word types across genres and the visulization was done with a donut plot.
   
  [](https://github.com/EdidiongEsu/portfolio/blob/master/img/jaccardPlot.jpg)
 
