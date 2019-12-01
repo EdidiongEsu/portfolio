@@ -29,6 +29,7 @@ September 2019
  
  ---
 ### Child Mortality in the World
+Insight into the mortality rate of children especially neonatal deaths as a result of Malaria. Data was gotten from UNICEF official site.
 
 
 
