@@ -12,7 +12,9 @@ I am a passionate writer who is enthusiastic about getting information behind th
 <img src="https://github.com/EdidiongEsu/portfolio/blob/master/img/similarity_NLP.png" />
 </p>
 
-I analyzed blurbs of over a million words to check for similarity between genres. A blurb is a short (usually about 200 words) description of a book  usually written for promotional purposes. I ascertained if blurbs are avid representations of whole books by checking for thee frequencies of words in each genre. Deductions were made which gave an insight into the writing style of african literature. The data used in this repository was scraped from Africa's most popular e-store by my [webcrawler](https://github.com/EdidiongEsu/okadabooks_scraper). Jaccard similarity was used to calculate the similarity metric by comparing word types across genres and the visulization was done with a donut plot.
+I analyzed blurbs of over a million words to check for similarity between genres. A blurb is a short (usually about 200 words) description of a book written for promotional purposes. I ascertained if blurbs are accurate representations of whole books by checking for frequencies of words in each genre. Deductions were made which gave an insight into the writing style of african literature. The data used in this repository was scraped from Africa's most popular e-store by my [webcrawler](https://github.com/EdidiongEsu/okadabooks_scraper). 
+
+[Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) was used to calculate the similarity metric by comparing word types across genres and the visulization was done with a donut plot.
     
    
  November 2019
@@ -35,7 +37,7 @@ September 2019
 
 This is mortality based analysis that focuses on the trend of child death from malaria in Nigeria and its neighbouring countries with respect to the whole world . Data was gotten from [UNICEF](https://data.unicef.org/). I looked into neonatal and post-neonatal deaths in a bid to see if the right steps had been taken into eliminating natal deaths. Comparisons were made with neighbouring countries and deductions were made respectively.
 
-I wrote about my findings in an aricle on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217)
+I wrote about my findings in an article on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217).
 
 July, 2019
 
