@@ -29,8 +29,15 @@ September 2019
  
  ---
 ### [Child Mortality](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
+<p align="center"> 
+<img src="https://github.com/EdidiongEsu/portfolio/blob/master/img/child_mortality.jpg" width="400px" height="300px" />
+</p>
+
 This is mortality based analysis that focuses on the trend of child death from malaria in Nigeria and its neighbouring countries with respect to the whole world . Data was gotten from [UNICEF](https://data.unicef.org/). I looked into neonatal and post-neonatal deaths in a bid to see if the right steps had been taken into eliminating natal deaths. Comparisons were made with neighbouring countries and deductions were made respectively.
 I wrote about my findings in an aricle on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217)
+
+---
+
 
 
 
