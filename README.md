@@ -34,8 +34,10 @@ September 2019
 </p>
 
 This is mortality based analysis that focuses on the trend of child death from malaria in Nigeria and its neighbouring countries with respect to the whole world . Data was gotten from [UNICEF](https://data.unicef.org/). I looked into neonatal and post-neonatal deaths in a bid to see if the right steps had been taken into eliminating natal deaths. Comparisons were made with neighbouring countries and deductions were made respectively.
+
 I wrote about my findings in an aricle on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217)
 
+July, 2019
 ---
 
 
