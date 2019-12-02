@@ -7,6 +7,7 @@ Hello, my name is Edidiong Esu.
 I am a passionate writer who is enthusiastic about getting information behind the obscurity of data. The idea that there is an infinite amount of information behind numbers keeps me ticking. I think my best attribute is the intentional effort to make sure i learn new things everyday. My hobbies include gaming, playing chess and playing basketball.
 
 ## My Past Projects
+---
 ### [Similarity between Genres by analyzing 1.12Million words contained in blurbs using Natural Language Processing](https://github.com/EdidiongEsu/genre_NLP)
 <p align="center"> 
 <img src="https://github.com/EdidiongEsu/portfolio/blob/master/img/similarity_NLP.png" />
@@ -30,7 +31,7 @@ The scraping of okadabooks involved combining the powerful libraries of selenium
 September 2019
  
  ---
-### [Child Mortality](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
+### [Child Mortality in Nigeria](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
 <p align="center"> 
 <img src="https://github.com/EdidiongEsu/portfolio/blob/master/img/child_mortality.jpg" width="400px" height="300px" />
 </p>
@@ -43,6 +44,14 @@ July, 2019
 
 ---
 
+### [Analyzing IMDB Ratings of Movies across 100 years for different Work personalities](https://github.com/EdidiongEsu/Movie-Insights)
+![](https://github.com/EdidiongEsu/Movie-Insights/blob/master/Pictures/Duration.jpeg)
 
+In this project, I analyzed movies across a century to determine if [IMDB](https://en.wikipedia.org/wiki/IMDb) is a reliable platform to use when checking for ratings of movies. The insights were used to advise on the criterias to have in mind when selecting a movie to watch from a collection. It also looked into picking the best genres depending on what work schedules an individual has.
 
+I wrote about my findings in an aricle on [medium](https://medium.com/@eddy.esu.22/deliberations-of-a-movie-buff-tips-to-aid-choosing-your-next-cinematic-experience-2fb001372be8).
+
+---
+## Mini-Projects
+* Email classification using Naive-Bayes on [Jupyter Notebook](https://github.com/EdidiongEsu/machine_learning/blob/master/Email%20classifier%20with%20Naive%20bayes/Email%20classifier%20with%20Naive%20Bayes.ipynb).
 
