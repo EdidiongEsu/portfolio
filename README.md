@@ -38,6 +38,7 @@ This is mortality based analysis that focuses on the trend of child death from m
 I wrote about my findings in an aricle on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217)
 
 July, 2019
+
 ---
 
 
