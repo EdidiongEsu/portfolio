@@ -28,8 +28,9 @@ The scraping of okadabooks involved combining the powerful libraries of selenium
 September 2019
  
  ---
-### Child Mortality in the World
-Insight into the mortality rate of children especially neonatal deaths as a result of Malaria. Data was gotten from UNICEF official site.
+### [Child Mortality](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
+This is mortality based analysis that focuses on the trend of child death from malaria in Nigeria and its neighbouring countries with respect to the whole world . Data was gotten from [UNICEF](https://data.unicef.org/). I looked into neonatal and post-neonatal deaths in a bid to see if the right steps had been taken into eliminating natal deaths. Comparisons were made with neighbouring countries and deductions were made respectively.
+I wrote about my findings in an aricle on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217)
 
 
 
