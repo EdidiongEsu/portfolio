@@ -23,7 +23,7 @@ I analyzed blurbs of over a million words to check for similarity between genres
  November 2019
   
   ---
- ### Scraping and analyzing of okadabooks
+ ### [Scraping and analyzing of okadabooks](https://github.com/EdidiongEsu/analyzing_okadabooks)
 ![](https://github.com/EdidiongEsu/portfolio/blob/master/img/double_header.PNG)
 [Okadabooks](https://okadabooks.com/) is an online store of e-books dedicated to african literature. It is one of Africa's most largest platform with about 330,000 users and 500Milion pages read annually. 
 The purpose of this project was to look into the reading patterns of  okadabooks readers from when it was founded in 2013. For self-publishing authors (Like myself), I generated a success metric for its authors and checked if there was a clear relationship between reads and the Price of each book.
