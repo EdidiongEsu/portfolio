@@ -51,7 +51,7 @@ July, 2019
 
 In this project, I analyzed movies across a century to determine if [IMDB](https://en.wikipedia.org/wiki/IMDb) is a reliable platform to use when checking for ratings of movies. The insights were used to advise on the criterias to have in mind when selecting a movie to watch from a collection. It also looked into picking the best genres depending on what work schedules an individual has.
 
-I wrote about my findings in an aricle on [medium](https://medium.com/@eddy.esu.22/deliberations-of-a-movie-buff-tips-to-aid-choosing-your-next-cinematic-experience-2fb001372be8).
+I wrote about my findings in an article on [medium](https://medium.com/@eddy.esu.22/deliberations-of-a-movie-buff-tips-to-aid-choosing-your-next-cinematic-experience-2fb001372be8).
 
 ---
 ## Mini-Projects
