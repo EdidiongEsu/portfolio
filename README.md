@@ -6,6 +6,12 @@ Hi, my name is Edidiong Esu.
 
 I am a passionate writer who is enthusiastic about getting information behind the obscurity of data. The idea that there is an infinite amount of information behind numbers keeps me ticking. I think my best attribute is the intentional effort to make sure i learn new things everyday. My hobbies include gaming, playing chess and playing basketball.
 
+## My Writing
+
+![](https://github.com/EdidiongEsu/portfolio/blob/master/img/medium.PNG)
+I write because i love to tell stories. For most projects, I make it a priority to put my findings out there hoping to inspire or teach someone. I am an author for [Towards Data Science](https://towardsdatascience.com), the biggest data science publications on Medium. Check [here](https://medium.com/@eddy.esu.22) to read more of my articles.
+
+
 ## My Past Projects
 ---
 ### [Similarity between Genres by analyzing 1.12Million words contained in blurbs using Natural Language Processing](https://github.com/EdidiongEsu/genre_NLP)
