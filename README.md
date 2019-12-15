@@ -9,7 +9,7 @@ I am a passionate writer who is enthusiastic about getting information behind th
 ## My Writing
 
 ![](https://github.com/EdidiongEsu/portfolio/blob/master/img/medium.PNG)
-I write because i love to tell stories. For most projects, I make it a priority to put my findings out there hoping to inspire or teach someone. I am an author for [Towards Data Science](https://towardsdatascience.com), the biggest data science publications on Medium. Check [here](https://medium.com/@eddy.esu.22) to read more of my articles.
+I write because i love to tell stories. For most projects, I make it a priority to put my findings out there hoping to inspire or teach someone. I am an author for [Towards Data Science](https://towardsdatascience.com), the biggest data science publication in the world. Check [here](https://medium.com/@eddy.esu.22) to read more of my articles with great data insights.
 
 
 ## My Past Projects
