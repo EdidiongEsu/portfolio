@@ -26,7 +26,6 @@ I analyzed blurbs of over a million words to check for similarity between genres
 [Jaccard similarity](https://en.wikipedia.org/wiki/Jaccard_index) was used to calculate the similarity metric by comparing word types across genres and the visulization was done with a donut plot.
     
    
- November 2019
   
   ---
  ### [Scraping and analyzing of okadabooks](https://github.com/EdidiongEsu/analyzing_okadabooks)
@@ -36,7 +35,7 @@ The purpose of this project was to look into the reading patterns of  okadabooks
 
 The scraping of okadabooks involved combining the powerful libraries of selenium,request and BeautifulSoup. Selenium was used because of the dynamic content of the store. Scraping involved tapping LoadMore Pagination while ensuring to imitate user usage. More details on the webcrawler [here](https://github.com/EdidiongEsu/okadabooks_scraper).
 
-September 2019
+
  
  ---
 ### [Child Mortality in Nigeria](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
@@ -48,7 +47,7 @@ This is mortality based analysis that focuses on the trend of child death from m
 
 I wrote about my findings in an article on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217).
 
-July, 2019
+
 
 ---
 
