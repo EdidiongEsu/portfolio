@@ -31,7 +31,7 @@ I analyzed blurbs of over a million words to check for similarity between genres
  ### [Scraping and analyzing of okadabooks](https://github.com/EdidiongEsu/analyzing_okadabooks)
 ![](https://github.com/EdidiongEsu/portfolio/blob/master/img/double_header.PNG)
 [Okadabooks](https://okadabooks.com/) is an online store of e-books dedicated to african literature. It is one of Africa's most largest platform with about 330,000 users and 500Milion pages read annually. 
-The purpose of this project was to look into the reading patterns of  okadabooks readers from when it was founded in 2013. For self-publishing authors (Like myself), I generated a success metric for its authors and checked the frequency at which books were purchased from okadabooks. I wrote about my findings [here](https://towardsdatascience.com/riding-okadabooks-aae359d9fbad)
+The purpose of this project was to look into the reading patterns of  okadabooks readers from when it was founded in 2013. For self-publishing authors (Like myself), I generated a success metric for its authors and checked the frequency at which books were purchased from okadabooks. I wrote about my findings and insights [here](https://towardsdatascience.com/riding-okadabooks-aae359d9fbad)
 
 The scraping of okadabooks involved combining the powerful libraries of selenium,request and BeautifulSoup. Selenium was used because of the dynamic content of the store. Scraping involved tapping LoadMore Pagination while ensuring to imitate user usage. More details on the webcrawler [here](https://github.com/EdidiongEsu/okadabooks_scraper).
 
