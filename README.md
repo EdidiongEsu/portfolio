@@ -2,7 +2,7 @@
 
 ![](https://github.com/EdidiongEsu/portfolio/blob/master/img/Capture.PNG)
 
-Hello, my name is Edidiong Esu.
+H1, my name is Edidiong Esu.
 
 I am a passionate writer who is enthusiastic about getting information behind the obscurity of data. The idea that there is an infinite amount of information behind numbers keeps me ticking. I think my best attribute is the intentional effort to make sure i learn new things everyday. My hobbies include gaming, playing chess and playing basketball.
 
