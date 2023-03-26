@@ -14,6 +14,20 @@ I write because i love to tell stories. For most projects, I make it a priority 
 
 ## My Past Projects
 ---
+### [Car Image Predictor](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one)
+An interactive car image prediction service where pictures can be uploaded and classified. It can be viewed here:
+    https://edidiongesu-mlzoomcamp-capstone-one-main-app-6b2cid.streamlit.app/
+
+Here is the interface:
+    ![](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one/blob/main/images/webapp.png)
+
+Upload an image:
+    ![](ihttps://github.com/EdidiongEsu/mlzoomcamp_capstone_one/blob/main/images/webapp2.png)
+
+Classify the car image:
+    ![](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one/blob/main/images/webapp3.png)
+
+---
 ### [Similarity between Genres by analyzing 1.12Million words contained in blurbs using Natural Language Processing](https://github.com/EdidiongEsu/genre_NLP)
 
 
