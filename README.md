@@ -15,7 +15,7 @@ I write because i love to tell stories. For most projects, I make it a priority 
 ## My Past Projects
 ---
 ### [Car Image Prediction service using deep learning](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one)
-An interactive car image prediction service where pictures can be uploaded and classified. It can be viewed by clicking <b>*[this link](https://edidiongesu-mlzoomcamp-capstone-one-main-app-6b2cid.streamlit.app/)*</b>
+An interactive car image prediction service where pictures can be uploaded and classified. It can be viewed by clicking <b>*[this link](https://edidiongesu-mlzoomcamp-capstone-one-main-app-uy4dzl.streamlit.app/)*</b>
 
 Here is the interface:
     ![](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one/blob/main/images/webapp.png)
