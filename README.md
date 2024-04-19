@@ -2,9 +2,9 @@
 
 ![](https://github.com/EdidiongEsu/portfolio/blob/master/img/Capture.PNG)
 
-Hi, my name is Edidiong Esu.
+Hi, My name is Edidiong Esu.
 
-I am a passionate writer who is enthusiastic about getting information behind the obscurity of data. The idea that there is an infinite amount of information behind numbers keeps me ticking. I think my best attribute is the intentional effort to make sure i learn new things everyday. My hobbies include gaming, playing chess and playing basketball.
+I am an experienced Data Analyst skilled in leveraging Python, SQL, and Visualization tools to create actionable insights. I'm expanding my skills into Data Engineering, gaining hands-on experience in designing and implementing data pipelines using Airflow, GCP, Mage, DBT, docker, etc. I have a proven track record in delivering impactful data projects and am committed to continuous learning and growth in the field. 
 
 ## My Writing
 
@@ -13,6 +13,15 @@ I write because i love to tell stories. For most projects, I make it a priority 
 
 
 ## My Past Projects
+---
+### [End-to-End Data Engineering Project: Capital Bikeshare](https://github.com/EdidiongEsu/capital_bikeshare)
+This project involves extracting, moving, and analyzing data from Washington DC's Capital Bikeshare system to uncover key insights. By implementing an end-to-end data pipeline, it aims to efficiently process data, store it in an analytical warehouse, and create an interactive dashboard for easy decision-making. Key deliverables include developing a robust data pipeline, managing its resources and designing the interactive dashboard.
+
+### Data Architecture
+The workflow, tools, and implementation of the project are summarized in the project architecture below:
+
+    ![Alt text](https://github.com/EdidiongEsu/capital_bikeshare/blob/main/img/Bike%20architecture.gif)
+
 ---
 ### [Car Image Prediction service using deep learning](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one)
 An interactive car image prediction service where pictures can be uploaded and classified. It can be viewed by clicking <b>*[this link](https://edidiongesu-mlzoomcamp-capstone-one-main-app-uy4dzl.streamlit.app/)*</b>
