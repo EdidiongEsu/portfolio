@@ -6,12 +6,6 @@ Hi, My name is Edidiong Esu.
 
 I am an experienced Data Analyst skilled in leveraging Python, SQL, and Visualization tools to create actionable insights. I'm expanding my skills into Data Engineering, gaining hands-on experience in designing and implementing data pipelines using Airflow, GCP, Mage, DBT, docker, etc. I have a proven track record in delivering impactful data projects and am committed to continuous learning and growth in the field. 
 
-## My Writing
-
-![](https://github.com/EdidiongEsu/portfolio/blob/master/img/medium.PNG)
-I write because i love to tell stories. For most projects, I make it a priority to put my findings in writing hoping to inspire or teach someone. I am an author for [Towards Data Science](https://towardsdatascience.com), the biggest data science publication in the world hosted on Medium. [Here](https://towardsdatascience.com/@eddy.esu.22) is my profile. Check [here](https://medium.com/@eddy.esu.22) to read more of my articles with great data insights.
-
-
 ## My Past Projects
 ---
 ### [End-to-End Data Engineering Project: Capital Bikeshare](https://github.com/EdidiongEsu/capital_bikeshare)
@@ -57,7 +51,6 @@ The purpose of this project was to look into the reading patterns of  okadabooks
 The scraping of okadabooks involved combining the powerful libraries of selenium,request and BeautifulSoup. Selenium was used because of the dynamic content of the store. Scraping involved tapping LoadMore Pagination while ensuring to imitate user usage. More details on the webcrawler [here](https://github.com/EdidiongEsu/okadabooks_scraper).
 
 
- 
  ---
 ### [Child Mortality in Nigeria](https://github.com/EdidiongEsu/child-mortality/blob/master/README.md)
 <p align="center"> 
@@ -68,8 +61,6 @@ This is mortality based analysis that focuses on the trend of child death from m
 
 I wrote about my findings in an article on [medium](https://medium.com/@eddy.esu.22/global-reduction-in-infant-mortality-864d1879a217).
 
-
-
 ---
 
 ### [Analyzing IMDB Ratings of Movies across 100 years for different Work personalities](https://github.com/EdidiongEsu/Movie-Insights)
@@ -78,6 +69,12 @@ I wrote about my findings in an article on [medium](https://medium.com/@eddy.esu
 In this project, I analyzed movies across a century to determine if [IMDB](https://en.wikipedia.org/wiki/IMDb) is a reliable platform to use when checking for ratings of movies. The insights were used to advise on the criterias to have in mind when selecting a movie to watch from a collection. It also looked into picking the best genres depending on what work schedules an individual has.
 
 I wrote about my findings in an article on [medium](https://medium.com/@eddy.esu.22/deliberations-of-a-movie-buff-tips-to-aid-choosing-your-next-cinematic-experience-2fb001372be8).
+
+---
+## My Writing
+
+![](https://github.com/EdidiongEsu/portfolio/blob/master/img/medium.PNG)
+I write because i love to tell stories. For most projects, I make it a priority to put my findings in writing hoping to inspire or teach someone. I am an author for [Towards Data Science](https://towardsdatascience.com), the biggest data science publication in the world hosted on Medium. [Here](https://towardsdatascience.com/@eddy.esu.22) is my profile. Check [here](https://medium.com/@eddy.esu.22) to read more of my articles with great data insights.
 
 ---
 ## Mini-Projects
