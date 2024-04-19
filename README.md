@@ -15,12 +15,11 @@ I write because i love to tell stories. For most projects, I make it a priority 
 ## My Past Projects
 ---
 ### [End-to-End Data Engineering Project: Capital Bikeshare](https://github.com/EdidiongEsu/capital_bikeshare)
-This project involves extracting, moving, and analyzing data from Washington DC's Capital Bikeshare system to uncover key insights. By implementing an end-to-end data pipeline, it aims to efficiently process data, store it in an analytical warehouse, and create an interactive dashboard for easy decision-making. Key deliverables include developing a robust data pipeline, managing its resources and designing the interactive dashboard.
+This project involves extracting, moving, and analyzing data from Washington DC's Capital Bikeshare system to uncover key insights. By implementing an end-to-end data pipeline, it aims to efficiently process data, store it in an analytical warehouse, and create an interactive dashboard for easy decision-making. Key deliverables include developing a robust data pipeline, managing its resources and designing the interactive dashboard. More details [here](https://github.com/EdidiongEsu/capital_bikeshare)
 
-### Data Architecture
+#### Data Architecture
 The workflow, tools, and implementation of the project are summarized in the project architecture below:
-
-    ![Alt text](https://github.com/EdidiongEsu/capital_bikeshare/blob/main/img/Bike%20architecture.gif)
+![Alt text](https://github.com/EdidiongEsu/capital_bikeshare/blob/main/img/Bike%20architecture.gif)
 
 ---
 ### [Car Image Prediction service using deep learning](https://github.com/EdidiongEsu/mlzoomcamp_capstone_one)
