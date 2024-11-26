@@ -80,3 +80,6 @@ I write because i love to tell stories. For most projects, I make it a priority 
 ## Mini-Projects
 * Email classification using Naive-Bayes on [Jupyter Notebook](https://github.com/EdidiongEsu/machine_learning/blob/master/Email%20classifier%20with%20Naive%20bayes/Email%20classifier%20with%20Naive%20Bayes.ipynb).
 
+
+### Happy Coding!
+
