@@ -11,6 +11,18 @@ My work bridges engineering precision with business context, ensuring that data 
 
 I'm open to opportunities in **analytics engineering**, **data engineering**, or **senior analytics**, where I can apply my full-stack data expertise to drive meaningful, data-informed outcomes.
 
+## Databricks Certified Data Engineer Associate
+
+I’m certified as a **Databricks Data Engineer Associate**, demonstrating practical expertise in building and maintaining data workflows on the Databricks Lakehouse Platform.
+
+<p align="center">
+  <a href="https://credentials.databricks.com/d07ac3d4-eda6-4706-849e-4bf87932052a#acc.x03av9uO" target="_blank">
+    <img src="https://github.com/EdidiongEsu/portfolio/blob/master/img/Databricks%20Certified%20Data%20Engineer%20Associate_page-0001.jpg?raw=true" alt="Databricks Certified Data Engineer Associate Badge" width="250"/>
+  </a>
+</p>
+
+🔗 [**View Certification on Databricks Credentials**](https://credentials.databricks.com/d07ac3d4-eda6-4706-849e-4bf87932052a#acc.x03av9uO)
+
 
 ## My Past Projects
 ---
