@@ -5,7 +5,7 @@
 # 👋 Hi, I’m Edidiong  
 ### Experienced Data & Analytics Engineer | Building Scalable, Insightful Data Systems
 
-I have over 4 years of experience delivering end-to-end data solutions, from architecting robust data pipelines and transforming raw datasets into clean, tested models, to enabling fast, reliable analytics that support critical decision-making.
+I have over 5 years of experience delivering end-to-end data solutions, from architecting robust data pipelines and transforming raw datasets into clean, tested models, to enabling fast, reliable analytics that support critical decision-making.
 
 My work bridges engineering precision with business context, ensuring that data systems are not only technically sound but also aligned with real-world goals. I’ve led initiatives across the full data lifecycle and thrive in roles where I can design, build, and scale modern data infrastructure.
 
