@@ -26,6 +26,24 @@ I’m certified as a **Databricks Data Engineer Associate**, demonstrating pract
 
 ## My Past Projects
 ---
+### [End-to-End Financial Data Engineering and Analytics Pipeline for Banking Transactions](https://github.com/EdidiongEsu/berka_fabrics)
+
+This project showcases a production-ready banking analytics lakehouse built end-to-end in Microsoft Fabric using the PKDD’99 (Berka) financial dataset. Over 1 million transactions from eight raw source files are processed through a robust Bronze → Silver → Gold medallion architecture using PySpark and Fabrics. The final Gold layer delivers five denormalized, business-ready tables designed for instant analytics and decision-making. A Fabric semantic model powers an interactive Power BI dashboard that gives insights into client behavior, spending patterns, and credit-risk indicators. The result is a fully reproducible, enterprise-ready solution that demonstrates best practices in real-world data engineering and analytics.
+
+More details and full implementation available [here](https://github.com/EdidiongEsu/berka_fabrics).
+
+#### Data Architecture
+
+Below is the full architecture of the project. 
+
+![Alt text](https://github.com/EdidiongEsu/berka_fabrics/blob/main/pics/Berka%20architecture%20Diagram%20flow%20(1).gif)
+
+##### DAG
+Below is the full DAG and table linkage
+
+![Detailed Silver → Gold transformation](https://github.com/EdidiongEsu/berka_fabrics/blob/main/pics/Berka%20architecture%20Diagram%20flow%20(2).png)
+
+---
 ### [Earthquake Data Pipeline with Databricks](https://github.com/EdidiongEsu/Databricks_earthquake)
 
 This project showcases a scalable data pipeline built using Databricks and the medallion architecture (bronze, silver, gold) to process earthquake data. The goal is to efficiently ingest, transform, and analyze real-time earthquake data from the USGS API and store it in structured Delta Lake tables for downstream analytics.
