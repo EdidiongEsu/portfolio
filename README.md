@@ -26,6 +26,19 @@ I’m certified as a **Databricks Data Engineer Associate**, demonstrating pract
 
 ## My Past Projects
 ---
+### [End-to-End Data Engineering of a Real-Time Electrical Grid Streaming Pipeline on Databricks](https://github.com/EdidiongEsu/electrical_grid)
+This project builds a production-grade real-time electrical grid monitoring pipeline entirely on Databricks using a synthetic IoT stream from smart meters and distribution transformers. Raw streaming data is ingested every 30 seconds into Delta Lake volumes and processed through a medallion architecture using Lakeflow Declarative Pipelines. The Gold layer delivers 5 business-ready tables powering an AI/BI dashboard and an AI Genie Bot for real-time grid health monitoring, transformer performance, and energy cost analytics.
+More details and full implementation available [here](https://github.com/EdidiongEsu/electrical_grid).
+
+#### Data Architecture
+Below is the full architecture of the project.
+![Architecture Diagram](https://github.com/EdidiongEsu/electrical_grid/blob/main/img/architectural_diagram.gif)
+
+##### DAG
+Below is the full DAG and table linkage
+![High-level Pipeline DAG](https://github.com/EdidiongEsu/electrical_grid/blob/main/img/full_pipeline.png)
+
+---
 ### [End-to-End Financial Data Engineering and Analytics Pipeline for Banking Transactions](https://github.com/EdidiongEsu/berka_fabrics)
 
 This project showcases a production-ready banking analytics lakehouse built end-to-end in Microsoft Fabric using the PKDD’99 (Berka) financial dataset. Over 1 million transactions from eight raw source files are processed through a robust Bronze → Silver → Gold medallion architecture using PySpark and Fabrics. The final Gold layer delivers five denormalized, business-ready tables designed for instant analytics and decision-making. A Fabric semantic model powers an interactive Power BI dashboard that gives insights into client behavior, spending patterns, and credit-risk indicators. The result is a fully reproducible, enterprise-ready solution that demonstrates best practices in real-world data engineering and analytics.
